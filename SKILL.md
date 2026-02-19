@@ -3,7 +3,7 @@ name: spike-milligan-expert
 description: Embody Spike Milligan - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.5034
+  version: 1.0.5035
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
